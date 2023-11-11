@@ -4,16 +4,22 @@ import HTML from '../assets/html.png';
 import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
-import Node from '../assets/node.png';
 import Firebase from '../assets/firebase.png';
-import AWS from '../assets/aws.png';
 import Github from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
+import Python from '../assets/python.png'
+import C from '../assets/C.png'
+import Cplus from '../assets/C++.png'
+import Java from '../assets/java.png'
+import Kotlin from '../assets/kotlin2.png'
+import Docker from '../assets/docker.png'
+import Git from '../assets/git.png'
+import MySQL from '../assets/mysql.png'
+
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='skills' className='w-full sm:h-screen bg-[#0a192f] text-gray-300'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
@@ -39,28 +45,48 @@ const Skills = () => {
                     <p className='my-2 font-bold'>React</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto pt-4' src={Node} alt="icone HTML" />
-                    <p className='my-2 font-bold'>Node</p>
+                    <img className='w-20 mx-auto pt-4' src={Tailwind} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Tailwind</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto pt-4' src={Java} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Java</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto pt-4' src={Kotlin} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Kotlin</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto pt-4' src={Firebase} alt="icone HTML" />
                     <p className='my-2 font-bold'>Firebase</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto pt-6 pb-4' src={MySQL} alt="icone HTML" />
+                    <p className='my-2 font-bold'>MySQL</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto pt-4' src={Github} alt="icone HTML" />
                     <p className='my-2 font-bold'>Github</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto pt-4' src={AWS} alt="icone HTML" />
-                    <p className='my-2 font-bold'>AWS</p>
+                    <img className='w-20 mx-auto pt-10 pb-6' src={Git} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Git</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto pt-4' src={Tailwind} alt="icone HTML" />
-                    <p className='my-2 font-bold'>Tailwind</p>
+                    <img className='w-20 mx-auto pt-5 scale-120 pb-2' src={C} alt="icone HTML" />
+                    <p className='my-2 font-bold'>C</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto pt-4' src={Mongo} alt="icone HTML" />
-                    <p className='my-2 font-bold'>Mongo DB</p>
+                    <img className='w-20 mx-auto pt-4 scale-90' src={Cplus} alt="icone HTML" />
+                    <p className='my-2 font-bold'>C++</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto pt-4' src={Python} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Python</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto pt-4' src={Docker} alt="icone HTML" />
+                    <p className='my-2 font-bold'>Docker</p>
                 </div>
             </div>
 

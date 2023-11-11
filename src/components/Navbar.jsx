@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from '../assets/logo1.png';
+import Logo from '../assets/logoRD.png';
 import {Link} from 'react-scroll'
 
 const Navbar = () => {
@@ -17,27 +17,27 @@ const Navbar = () => {
 
         {/* menu*/}
         <ul className='hidden md:flex'>
-            <li>
+            <li className='hover:scale-105 duration-150'>
             <Link to="home" smooth={true} duration={500}>
                 Home
             </Link>    
             </li>
-            <li>
+            <li className='hover:scale-105 duration-150'>
             <Link to="sobre" smooth={true} duration={500}>
                 Sobre
             </Link>
             </li>
-            <li>
+            <li className='hover:scale-105 duration-150'>
             <Link to="skills" smooth={true} duration={500}>
                 Skills
             </Link>
             </li>
-            <li>
+            <li className='hover:scale-105 duration-150'>
             <Link to="trabalho" smooth={true} duration={500}>
                 Projetos
             </Link>
             </li>
-            <li>
+            <li className='hover:scale-105 duration-150'>
             <Link to="contato" smooth={true} duration={500}>
                 Contato
             </Link>
