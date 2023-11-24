@@ -16,4 +16,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Portfolio-ReactTa
 © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para visualizar o portfolio:
-[Gerador de QR Code](https://rafadegolin.github.io/Portfolio-ReactTailwind/)
+[Portfolio](https://rafadegolin.github.io/Portfolio-ReactTailwind/)
