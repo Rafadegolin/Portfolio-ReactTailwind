@@ -3,7 +3,8 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logoRD.png';
-import {Link} from 'react-scroll'
+import {Link} from 'react-scroll';
+import Curriculo from '../assets/Rafael.pdf';
 
 const Navbar = () => {
     const [nav, setNav] = useState(false)
@@ -96,7 +97,7 @@ const Navbar = () => {
                     </a>
                 </li>
 
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-pink-600'>
                     <a className='flex justify-between items-center w-full text-gray-300'
                     href="mailto:rafaeldegolin26@hotmail.com">
                         E-mail <HiOutlineMail size={30}/>
@@ -105,7 +106,7 @@ const Navbar = () => {
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href="../assets/Rafael Degolin da SIlva - 2023.pdf" download>
+                    href={Curriculo} download={Curriculo}>
                         Currículo <BsFillPersonLinesFill size={30}/>
                     </a>
                 </li>
