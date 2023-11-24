@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio-ReactTailwind/static/css/main.efb582ff.css",
-    "main.js": "/Portfolio-ReactTailwind/static/js/main.d101ddc9.js",
-    "static/media/jogomemoria.png": "/Portfolio-ReactTailwind/static/media/jogomemoria.6c7b15fbbb6a80ea9ef8.png",
-    "static/media/climaAppV2.png": "/Portfolio-ReactTailwind/static/media/climaAppV2.4bf2f4056d777d0f545d.png",
+    "main.css": "/Portfolio-ReactTailwind/static/css/main.6a6f3c86.css",
+    "main.js": "/Portfolio-ReactTailwind/static/js/main.82c8d4ac.js",
+    "static/media/avatar.png": "/Portfolio-ReactTailwind/static/media/avatar.8c2eff72b019ca11d225.png",
+    "static/media/overhealth.png": "/Portfolio-ReactTailwind/static/media/overhealth.ae2adcd4c2df91f1fe9e.png",
+    "static/media/climaAppV2.png": "/Portfolio-ReactTailwind/static/media/climaAppV2.622c577d9593b9c27386.png",
+    "static/media/selecionador.png": "/Portfolio-ReactTailwind/static/media/selecionador.0803defa84fbfe63e83f.png",
     "static/media/kotlin2.png": "/Portfolio-ReactTailwind/static/media/kotlin2.0e22a842339118ef9a10.png",
     "static/media/mysql.png": "/Portfolio-ReactTailwind/static/media/mysql.67646295cd91e7a3920e.png",
     "static/media/python.png": "/Portfolio-ReactTailwind/static/media/python.0c7afd9d7ce9ec27880c.png",
     "static/media/java.png": "/Portfolio-ReactTailwind/static/media/java.fdabd4e11f1235e4e8e0.png",
-    "static/media/mariogame.png": "/Portfolio-ReactTailwind/static/media/mariogame.8aaca2cb5de9e4299595.png",
+    "static/media/Rafael.pdf": "/Portfolio-ReactTailwind/static/media/Rafael.fe92ce4387b4db96f679.pdf",
+    "static/media/portfolio.png": "/Portfolio-ReactTailwind/static/media/portfolio.4a726b9ab59d663f531b.png",
     "static/media/C++.png": "/Portfolio-ReactTailwind/static/media/C++.053a898d752aef72651e.png",
     "static/media/logoRD.png": "/Portfolio-ReactTailwind/static/media/logoRD.97050ac6b0cda0587c3b.png",
     "static/media/docker.png": "/Portfolio-ReactTailwind/static/media/docker.c1404d2c9eb77e0a00a3.png",
-    "static/media/internetSpeedApp.png": "/Portfolio-ReactTailwind/static/media/internetSpeedApp.471f163b1578d788c35d.png",
     "static/media/react.png": "/Portfolio-ReactTailwind/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/climaAppV1.png": "/Portfolio-ReactTailwind/static/media/climaAppV1.12436d35caa8b2adee0b.png",
-    "static/media/calculadora.png": "/Portfolio-ReactTailwind/static/media/calculadora.ee8d02e17347393a48b5.png",
+    "static/media/qrcode.png": "/Portfolio-ReactTailwind/static/media/qrcode.6798d024a4762dc2dec7.png",
+    "static/media/encurtador.png": "/Portfolio-ReactTailwind/static/media/encurtador.cfc0373db3e48cdfb6c0.png",
     "static/media/C.png": "/Portfolio-ReactTailwind/static/media/C.d083731589e745941c43.png",
     "static/media/github.png": "/Portfolio-ReactTailwind/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/Portfolio-ReactTailwind/static/media/html.2ba4fabc69a89a8f71e6.png",
@@ -24,11 +26,11 @@
     "static/media/firebase.png": "/Portfolio-ReactTailwind/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/Portfolio-ReactTailwind/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-ReactTailwind/index.html",
-    "main.efb582ff.css.map": "/Portfolio-ReactTailwind/static/css/main.efb582ff.css.map",
-    "main.d101ddc9.js.map": "/Portfolio-ReactTailwind/static/js/main.d101ddc9.js.map"
+    "main.6a6f3c86.css.map": "/Portfolio-ReactTailwind/static/css/main.6a6f3c86.css.map",
+    "main.82c8d4ac.js.map": "/Portfolio-ReactTailwind/static/js/main.82c8d4ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.efb582ff.css",
-    "static/js/main.d101ddc9.js"
+    "static/css/main.6a6f3c86.css",
+    "static/js/main.82c8d4ac.js"
   ]
 }
